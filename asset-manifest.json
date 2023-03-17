@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/conditionalCard/static/css/main.03517c18.css",
+    "main.js": "/conditionalCard/static/js/main.abd9105a.js",
+    "static/media/berry.png": "/conditionalCard/static/media/berry.4e50b1a4e4f0a3b45fe5.png",
+    "index.html": "/conditionalCard/index.html",
+    "main.03517c18.css.map": "/conditionalCard/static/css/main.03517c18.css.map",
+    "main.abd9105a.js.map": "/conditionalCard/static/js/main.abd9105a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03517c18.css",
+    "static/js/main.abd9105a.js"
+  ]
+}
